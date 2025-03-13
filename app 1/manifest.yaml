@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app1
-        image: thulasi02/app1:v1
+        image: thulasi02/ingress1:v1
         imagePullPolicy: Always
         resources:
           requests:
